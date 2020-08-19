@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Insecure-Biometric-App"

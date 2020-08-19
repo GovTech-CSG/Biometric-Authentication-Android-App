@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Insecure-Biometric-App</string>
+    <string name="enter_secret_here" />
+    <string name="lock">Lock Text</string>
+</resources>
