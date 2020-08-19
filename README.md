@@ -2,7 +2,7 @@
 
 This project aims to educate developers to implement secure local biometric authentication on Android devices
 
-Detail writeup can be found [here](https://medium.com/p/10d9231215e4/edit)
+Detail writeup can be found [here](https://medium.com/csg-govtech/how-you-should-secure-your-androids-app-biometric-authentication-10d9231215e4)
 
 ## Authors
 
